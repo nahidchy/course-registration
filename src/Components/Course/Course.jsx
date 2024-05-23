@@ -1,4 +1,4 @@
-const Course = ({course}) => {
+const Course = ({course,handleAddName}) => {
     const {course_img,course_author,course_author_img,course_name,course_details,course_price,course_duration} = course;
     return (
         <div className="w-full  border-4 rounded px-2 py-5 shadow-blue-400 shadow-lg space-y-3">
@@ -14,7 +14,7 @@ const Course = ({course}) => {
             <p className="font-medium">Credit :{course_duration} hr</p>
           </div>
           <div className="w-1/2 mx-auto">
-          <button className="bg-blue-600 w-full font-semibold mt-5 text-white rounded p-2">Select</button>
+          <button onClick={()=>handleAddName(course.course_name,course.course_duration)} className="bg-blue-600 w-full font-semibold mt-5 text-white rounded p-2">Select</button>
           </div>
            </div>
     );
