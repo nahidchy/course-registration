@@ -1,0 +1,102 @@
+[
+    {
+      "id": "1",
+      "course_name": "Data Science",
+      "course_details": "Learn big data analytics, data visualization, statistics, and predictive analytics.",
+      "course_img": "https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg",
+      "course_price": 499,
+      "course_duration": 6,
+      "course_author": "IIIT-Bangalore",
+      "course_author_img": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg",
+      "course_level": "Intermediate"
+    },
+    {
+      "id": "2",
+      "course_name": "Artificial Intelligence and Machine Learning",
+      "course_details": "Master AI and ML technologies including Python, MySQL, AWS, Docker, and Kubernetes.",
+      "course_img": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg",
+      "course_price": 799,
+      "course_duration": 12,
+      "course_author": "University of Texas",
+      "course_author_img": "https://images.pexels.com/photos/3779431/pexels-photo-3779431.jpeg",
+      "course_level": "Advanced"
+    },
+    {
+      "id": "3",
+      "course_name": "Google IT Support",
+      "course_details": "Gain skills in computer networking, network security, and system administration.",
+      "course_img": "https://images.pexels.com/photos/1181673/pexels-photo-1181673.jpeg",
+      "course_price": 399,
+      "course_duration": 6,
+      "course_author": "Google",
+      "course_author_img": "https://images.pexels.com/photos/3987023/pexels-photo-3987023.jpeg",
+      "course_level": "Beginner"
+    },
+    {
+      "id": "4",
+      "course_name": "IBM Data Analyst",
+      "course_details": "Learn Python, Excel, SQL, and data visualization to become a data analyst.",
+      "course_img": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg",
+      "course_price": 499,
+      "course_duration": 6,
+      "course_author": "IBM",
+      "course_author_img": "https://images.pexels.com/photos/210647/pexels-photo-210647.jpeg",
+      "course_level": "Intermediate"
+    },
+    {
+      "id": "5",
+      "course_name": "Machine Learning",
+      "course_details": "Explore machine learning algorithms, data mining, and statistical analysis.",
+      "course_img": "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg",
+      "course_price": 299,
+      "course_duration": 3,
+      "course_author": "Stanford University",
+      "course_author_img": "https://images.pexels.com/photos/1447360/pexels-photo-1447360.jpeg",
+      "course_level": "Intermediate"
+    },
+    {
+      "id": "6",
+      "course_name": "Python for Data Science",
+      "course_details": "Learn Python programming and data science techniques.",
+      "course_img": "https://images.pexels.com/photos/5412168/pexels-photo-5412168.jpeg",
+      "course_price": 199,
+      "course_duration": 2,
+      "course_author": "IBM",
+      "course_author_img": "https://images.pexels.com/photos/3184307/pexels-photo-3184307.jpeg",
+      "course_level": "Beginner"
+    },
+    {
+      "id": "7",
+      "course_name": "Deep Learning",
+      "course_details": "Study deep learning, neural networks, and AI with hands-on projects.",
+      "course_img": "https://images.pexels.com/photos/4526474/pexels-photo-4526474.jpeg",
+      "course_price": 499,
+      "course_duration": 4,
+      "course_author": "DeepLearning.AI",
+      "course_author_img": "https://images.pexels.com/photos/3761061/pexels-photo-3761061.jpeg",
+      "course_level": "Advanced"
+    },
+    {
+      "id": "8",
+      "course_name": "Google UX Design",
+      "course_details": "Develop user experience design skills with a focus on web and mobile interfaces.",
+      "course_img": "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg",
+      "course_price": 399,
+      "course_duration": 6,
+      "course_author": "Google",
+      "course_author_img": "https://images.pexels.com/photos/1092644/pexels-photo-1092644.jpeg",
+      "course_level": "Beginner"
+    },
+    {
+      "id": "9",
+      "course_name": "Data Science with Python",
+      "course_details": "Learn data science fundamentals using Python.",
+      "course_img": "https://images.pexels.com/photos/247318/pexels-photo-247318.jpeg",
+      "course_price": 299,
+      "course_duration": 3,
+      "course_author": "University of Michigan",
+      "course_author_img": "https://images.pexels.com/photos/7366/startup-photos.jpg",
+      "course_level": "Intermediate"
+    }
+  ]
+  
